@@ -22,11 +22,11 @@
     "educationList": [
         {
             "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
+                "2013.09.01",
+                "2017.06.30"
             ],
-            "school": "华南理工大学",
-            "major": "网络工程",
+            "school": "黑龙江大学",
+            "major": "集成电路设计与集成系统",
             "academic_degree": "本科"
         }
     ],
@@ -107,7 +107,7 @@
 
     ],
     "aboutme": {
-        "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+        "aboutme_desc": "1.熟练使用.NET框架，掌握Go、Python等语言。/n2.软件架构设计有较多实战经验，善于使用设计模式编写高内聚，低耦合的代码。/n3.熟练使用MySQL，SQL Server等关系型数据库,对数据库设计，索引优化有一定研究。/n4.熟练使用Redis各种缓存场景，熟悉Redis底层原理。/n5.熟练掌握RabbitMQ的工作模式，具备服务解耦，异步架构设计思想。/n6.熟练使用 Linux系统、Docker、Git、Azure DevOps CI/CD自动化部署。"
     },
     "theme": {
         "color": "#2f5785",
