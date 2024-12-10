@@ -17,4 +17,3 @@
 I’m currently diving into Go programming and exploring its applications in building efficient, high-performance systems. I'm also keeping up with trends in cloud computing and data engineering.
 
 Thanks for stopping by! 😊
-[个人简历](https://visiky.github.io/resume/?branch=main&template=template3&user=Jasonbourne723)
