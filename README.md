@@ -1,19 +1,39 @@
-# Hi there, I'm Jason 👋
+# Hi there! 👋 I'm Tang Lei (唐磊)  
 
-## 🌐 About Me
+Welcome to my GitHub profile! 🚀 I'm a passionate **backend engineer** and **software architect** with 7+ years of experience in building robust, scalable, and high-performance systems. I specialize in distributed systems, microservices architecture, and cloud-native solutions.  
 
-- 🔧 **Current Focus**: Learning **Go** to expand my programming skill set.
-- 🏗️ **Role**: Architect with a strong emphasis on **microservices architecture**.
-- 💼 **Experience**: Worked across multiple domains, including Industrial IoT and e-commerce.
+---
 
-## 💻 Skills
+## 💻 About Me  
 
-### Programming Languages
-- **C#**: My primary language for developing scalable applications.
-- **Go**: Currently exploring Go for microservices and cloud-native development.
+- 🎓 **Education**: Graduated from **Heilongjiang University**, majoring in Integrated Circuit Design and System Integration.  
+- 🌟 **Core Skills**: Go, C#, Python | Distributed Systems | Microservices | Event-Driven Architecture | DDD  
+- 🛠️ **Tech Stack**:  
+  - **Backend**: Go, .NET Core, Python  
+  - **DevOps**: Docker, Kubernetes, GitLab CI/CD  
+  - **Databases**: MySQL, Redis, Tdengine, SQLite  
+  - **Messaging**: RabbitMQ, Kafka  
+- 📍 **Location**: Based in Shenzhen, China  
 
-## 📚 Learning Journey
+---
 
-I’m currently diving into Go programming and exploring its applications in building efficient, high-performance systems. I'm also keeping up with trends in cloud computing and data engineering.
+## 🌱 What I'm Learning  
 
-Thanks for stopping by! 😊
+I'm currently exploring:  
+- Advanced Go programming and performance optimization  
+- Distributed tracing and observability with OpenTelemetry  
+- Kubernetes and cloud-native architecture best practices  
+
+---
+
+## 📫 Get in Touch  
+
+- **Email**: [16675566723@163.com](mailto:16675566723@163.com)  
+- **Blog**: [My Tech Blog](https://jasonbourne723.github.io)  
+- **GitHub**: [My Projects](https://github.com/Jasonbourne723)  
+
+Feel free to check out my repositories or connect with me for discussions on backend technologies, distributed systems, or software architecture. I'm always open to collaboration and new challenges!  
+
+---
+
+⭐️ *If you find my work helpful, consider giving a star to my repositories!*
