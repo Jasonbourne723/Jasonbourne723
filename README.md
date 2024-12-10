@@ -7,7 +7,6 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **backend engineer** and **s
 ## 💻 About Me  
 
 - 🎓 **Education**: Graduated from **Heilongjiang University**, majoring in Integrated Circuit Design and System Integration.  
-- 🌟 **Core Skills**: Go, C#, Python | Distributed Systems | Microservices | Event-Driven Architecture | DDD  
 - 🛠️ **Tech Stack**:  
   - **Backend**: Go, .NET Core, Python  
   - **DevOps**: Docker, Kubernetes, GitLab CI/CD  
@@ -20,8 +19,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **backend engineer** and **s
 ## 🌱 What I'm Learning  
 
 I'm currently exploring:  
-- Advanced Go programming and performance optimization  
-- Distributed tracing and observability with OpenTelemetry  
+- Advanced Go programming and performance optimization   
 - Kubernetes and cloud-native architecture best practices  
 
 ---
